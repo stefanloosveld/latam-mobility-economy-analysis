@@ -40,8 +40,6 @@ Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 *Con 15 ciudades y un año de datos, los resultados son orientativos y no prueban causalidad.*
 
-## Archivos
-
 ## Cómo abrirlo en Colab
 
 Haz clic en el botón **Open in Colab** al inicio de este README. El notebook se abrirá en Google Colab, donde puedes ver el código, las tablas y los gráficos.
