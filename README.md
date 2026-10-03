@@ -1,4 +1,5 @@
 # Movilidad urbana y productividad económica en ciudades de Latinoamérica
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefanloosveld/latam-mobility-economy-analysis/blob/main/latam_mobility_economy_analysis.ipynb)
 
 Análisis de cómo se relaciona la congestión vehicular con la productividad económica en 15 ciudades latinoamericanas, para identificar dónde conviene invertir en infraestructura de transporte.
 
@@ -41,8 +42,17 @@ Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ## Archivos
 
-- `latam_mobility_economy_analysis.ipynb`: notebook con el análisis completo.
+## Cómo abrirlo en Colab
 
+Haz clic en el botón **Open in Colab** al inicio de este README. El notebook se abrirá en Google Colab, donde puedes ver el código, las tablas y los gráficos.
+
+## Estructura del repositorio
+
+```
+latam-mobility-economy-analysis/
+├── README.md                                ← descripción del proyecto
+└── latam_mobility_economy_analysis.ipynb    ← notebook con el análisis completo
+```
 ---
 
 Proyecto realizado como parte del bootcamp de Análisis de Datos de TripleTen.
